@@ -1,5 +1,4 @@
 import React from 'react';
-import React from 'react';
 import { json, checkStatus } from './utils';
 
 class Movie extends React.Component {
